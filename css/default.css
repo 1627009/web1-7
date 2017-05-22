@@ -25,6 +25,13 @@ header{
   float:left;
 }
 
+#find_picture{
+  width:24px;
+  position:absolute;
+  left:100px;
+  top:25px;
+}
+
 .box{
   background-color:#000000;
   color:#ffffff;
