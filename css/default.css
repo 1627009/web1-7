@@ -39,6 +39,9 @@ aside{
   background-color:#8b0000;
   width:200px;
   float:right;
+  position:relative;
+  top:20px;
+  right:10px;
 }
 
 footer{
