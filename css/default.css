@@ -24,8 +24,10 @@ header{
 aside{
   background-color:#8b0000;
   width:200px;
+  float:right;
 }
 
 footer{
   background-color:#808000;
+  clear:both;
 }
