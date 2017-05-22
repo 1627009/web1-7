@@ -40,7 +40,7 @@ header{
   height:80px;
   margin:5px;
   float:left;
-  overflow:auto;
+  overflow:hidden;
 }
 
 aside{
